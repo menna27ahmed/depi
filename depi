@@ -1,0 +1,85 @@
+this is the first vlog after joining the depi 
+in the first week i had 3 sessions 
+first one social skills and the other 2 were technical
+in the technical sessions we studied 4 modules 
+first module was cybersecurity awarness we learned:
+          1.What is security?
+          2.Confidentiality, integrity, and availability
+          3.Security baselining
+          4.Security concerns: humans
+          5.Types of threats
+          6.Security controls
+          7.What is hacking?
+          8.Risk management
+          9.Data in motion vs. data at rest 
+second module was about network dicovery we learned:
+          1.Networking review
+          2.Discovery, footprinting, and scanning
+          3.Common Vulnerabilities and Exposures
+          4.Security policies
+          5.Vulnerabilities
+third module was about system hardening we learned:
+          1. What is hardening?
+          2. Types of systems that can be hardened
+          3. Security baselines
+          4. How to harden systems
+          5. Hardening systems by role
+          6. Mobile device management
+          7. Hardening on the network
+          8. Authentication, Authorization, and Accounting
+          9. Physical security
+fourth module was about security architecture we learned :
+          1. Security architecture?
+          2. Network devices
+          3. Designing Network Security
+          4. WHAT IS A FIREWALL?
+          5. Why Firewall ?
+          6. Firewall Types 
+          7. Intrusion Detection Systems
+          8. Intrusion Prevention Systems
+          9. Next Generation Firewall (NGFW)
+in those 2 sessions we made 4 reports 
+    first one:
+    Cybersecurity Awareness Best Practices:
+    List and explain at least five best practices for improving cybersecurityawareness.
+    These should include practices related to password management,email security, software updates, social engineering, and data privacy.
+    second one:
+    .Define Systems Hardening:
+    1.Provide a definition of systems hardening and explain its importance in maintaining cybersecurity.
+    2.Discuss at least three different types of systems that can benefit from hardening (e.g.,servers, workstations, network devices).
+    third one:
+    . Techniques for Hardening Systems:
+      Describe five common systems hardening techniques, including:
+       1. Disabling unnecessary services
+       2. Implementing least privilege access
+       3. Patch management
+       4. Configuration baselines
+       5. Network segmentation
+       for each technique, explain how it contributes to improving system security.
+    fourth one:
+      .Security Standards and Guidelines:
+       Research and summarize security standards and guidelines related to systems hardening(e.g., CIS Benchmarks, NIST guidelines, ISO/IEC 27001).
+       Explain how these standards help organizations implement hardening strategies.
+
+then we designed Design a Secure Network Architecture and define the usage of each devise.
+These devices are included:
+1.Router
+2.Switches
+3.NIDS
+4.Firewall
+5. Database servers
+6. Policy servers
+7. Web server
+8. Directory servers
+9. HIDS
+10. DNS
+11. NGFW
+12.File servers
+13.Authentication services
+14. DHCP Directory services
+15. Web servers hosting
+16.internally used apps
+
+and also 2 labs in tryhackme:
+ Introductory Networking 
+ Secure Network Architecture:
